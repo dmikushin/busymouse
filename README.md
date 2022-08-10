@@ -1,6 +1,6 @@
-# PyMouse
+# BusyMouse
 
-Move the mouse slightly to mitigate the screen locking settings.
+Move the mouse slightly once in a minute, to mitigate the administrative screen locking settings.
 
 ## Prerequisites
 
